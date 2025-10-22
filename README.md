@@ -20,7 +20,7 @@ I build things that scale 🚀
 With a full-stack mindset, I thrive on turning complex systems into clean, efficient, and maintainable code. My playground spans **Golang • Java • Python**, and I’m equally at home architecting microservices, building high-concurrency backend systems, or deploying end-to-end cloud infrastructure.
 
 ## 🔧 Tech Stack  
-- **Languages:** Golang, Java, Python, Bash  
+- **Languages:** Golang, Java, Python  
 - **Backend & Systems:** Microservices, Distributed Systems, REST / gRPC APIs  
 - **Infrastructure:** Kubernetes, Docker, Cloud (AWS / GCP / Azure)  
 - **Data & Storage:** SQL, NoSQL, Caching, Data Pipelines  
